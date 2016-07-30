@@ -27,9 +27,24 @@ sidebar <- dashboardSidebar(
                        icon = icon("home")
                        ), # End of menuItem
               
+              menuItem("Analysis",
+                       tabName = "analysis", 
+                       icon = icon("search")
+                       ), # End of menuItem
+              
+              menuItem("Prediction",
+                       tabName = "prediction", 
+                       icon = icon("line-chart")
+                       ), # End of menuItem
+              
               menuItem("Map",
                        tabName = "map",
-                       icon = icon("map")   # alternatively: map, map-marker, map-pin
+                       icon = icon("map-marker")   # alternatively: map, map-marker, map-pin
+                       ), # End of menuItem
+              
+              menuItem("Data Sources",
+                       tabName = "dataSources",
+                       icon = icon("database")
                        ), # End of menuItem
               
               menuItem("UI",
@@ -42,10 +57,15 @@ sidebar <- dashboardSidebar(
                        icon = icon("file-text")
                        ), # End of menuItem
               
+              menuItem("Global",
+                       tabName = "global",
+                       icon = icon("file-text")
+                       ), # End of menuItem
+              
               menuItem("About", 
                        tabName = "about", 
                        icon = icon("question")
-              ) # End of menuItem
+                       ) # End of menuItem
               
               ) # End of sidebarMenu
   ) # End of dashboardSidebar
@@ -75,7 +95,36 @@ body <- dashboardBody(
             ) # End of FluidPage
             ), # End of ABOUT tabItem
     
-    tabItem(tabName = "map"),
+    tabItem(tabName = "analysis",
+            fluidPage(
+              fluidRow(
+                h3("Analysis"),
+                p("Visually show the correlation between weather data and
+                  choice of transport")
+              )
+            )),
+    
+    tabItem(tabName = "prediction",
+            fluidPage(
+              fluidRow(
+                h3("Prediction")
+              )
+            )),
+    
+    tabItem(tabName = "map",
+            fluidPage(
+              fluidRow(
+                leafletOutput("map1")
+              )
+            )),
+    
+    tabItem(tabName = "dataSources",
+            fluidPage(
+              fluidRow(
+                includeMarkdown("data sources.Rmd")
+              ) # End of fluidRow
+            ) # End of FluidPage
+    ), # End of DATASOURCES tabItem
     
     tabItem(tabName = "ui",
             pre(includeText("ui.R"))
@@ -83,6 +132,10 @@ body <- dashboardBody(
 
     tabItem(tabName = "server",
             pre(includeText("server.R"))
+            ), # End of tabItem
+    
+    tabItem(tabName = "global",
+            pre(includeText("global.R"))
             ) # End of tabItem
     
     ) # End of tabItems

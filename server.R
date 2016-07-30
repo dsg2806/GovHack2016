@@ -29,4 +29,11 @@ shinyServer(function(input, output) {
     
   })
   
+  output$map1 <- renderLeaflet({
+    leaflet() %>%
+    addTiles() %>%
+    addMarkers(lng = 144.9631, lat = -37.8136)
+      
+  })
+  
 }) # End of shinyServer
