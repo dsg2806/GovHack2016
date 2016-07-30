@@ -1,3 +1,16 @@
 links
 visibility
 how data works
+
+```{r, graph1}
+
+library(ggplot2)
+library(dplyr)
+
+pedestrian <- read.csv("Data/Pedestrian/pedestrians by date.csv")
+
+names(pedestrian)[3] <- "Count"
+
+ggplot(filter(pedestrian, Sensor_Name == "Flagstaff Station"), aes(x = Date, y = Count, group = Sensor_Name)) + 
+  geom_line()
+```
