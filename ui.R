@@ -98,7 +98,6 @@ body <- dashboardBody(
     tabItem(tabName = "analysis",
             fluidPage(
               fluidRow(
-                includeHTML("analysis.html")
                 # h3("Analysis"),
                 # p("Visually show the correlation between weather data and
                 #   choice of transport")
