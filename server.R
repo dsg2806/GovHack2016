@@ -18,6 +18,10 @@ shinyServer(function(input, output) {
   #                           SHINY OUTPUTS                                 #
   ###########################################################################
   
+  output$Date <- renderPrint({
+    input$date
+  })
+  
   output$map1 <- renderLeaflet({
     leaflet() %>%
     addTiles() %>%

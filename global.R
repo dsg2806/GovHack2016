@@ -18,7 +18,7 @@ library(dplyr)            # Data manipulation
 library(ggplot2)          # Visualisations
 library(plotly)           # Visualisations - interactive
 library(leaflet)          # Map
-
+library(Rforecastio)      # forecast weather data
 
 # Load Data ---------------------------------------------------------------
 ###########################################################################

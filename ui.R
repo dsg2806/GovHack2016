@@ -101,22 +101,38 @@ body <- dashboardBody(
                 # h3("Analysis"),
                 # p("Visually show the correlation between weather data and
                 #   choice of transport")
-              )
-            )),
+              ) # End of fluidRow
+            ) # End of fluidPage
+            ), # End of ANALYSIS tabItem
     
     tabItem(tabName = "prediction",
             fluidPage(
               fluidRow(
-                h3("Prediction")
-              )
-            )),
+                h2("Prediction"),
+                p("Please select a date within the next 7 days below."),
+                p("")
+              ), # End of fluidRow
+              
+              fluidRow(
+                dateInput("date", 
+                          label = h3("Date input"), 
+                          value = "2016-07-31")
+              ), # End of fluidRow
+              
+              fluidRow(
+                verbatimTextOutput("Date")
+              ) # End of fluidRow
+                
+              ) # End of fluidPage
+            ), # End of PREDICTION tabItem
     
     tabItem(tabName = "map",
             fluidPage(
               fluidRow(
                 leafletOutput("map1")
-              )
-            )),
+              ) # End of fluidRow
+            ) # End of fluidPage
+            ), # End of MAP tabItem
     
     tabItem(tabName = "dataSources",
             fluidPage(
@@ -128,15 +144,15 @@ body <- dashboardBody(
     
     tabItem(tabName = "ui",
             pre(includeText("ui.R"))
-            ), # End of tabItem
+            ), # End of UI tabItem
 
     tabItem(tabName = "server",
             pre(includeText("server.R"))
-            ), # End of tabItem
+            ), # End of SERVER tabItem
     
     tabItem(tabName = "global",
             pre(includeText("global.R"))
-            ) # End of tabItem
+            ) # End of GLOBAL tabItem
     
     ) # End of tabItems
 ) # End of dashboardBody
