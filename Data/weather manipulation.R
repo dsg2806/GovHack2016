@@ -5,40 +5,57 @@ library(lubridate)
 
 # Temperature -------------------------------------------------------------
 
-weather <- read.csv("Data/Weather/melTempArchive.csv")
+temperature <- read.csv("Data/Weather/melTempArchive.csv")
 
-head(weather)
+temperature$Date <-  paste(temperature$Year, 
+                           temperature$Month, 
+                           temperature$Day, 
+                           sep = "-")
+temperature$Date <- ymd(temperature$Date)
 
-str(weather)
+temperature <- filter(temperature, Year > 2008) %>%
+               select(temperature, 
+                      Date, 
+                      Maximum.temperature..Degree.C., 
+                      Minimum.temperature..Degree.C.)
 
-unique(weather$Year)
+names(temperature) <- c("date", "maxTemp", "minTemp")
 
-weather$Date <-  paste(weather$Year, weather$Month, weather$Day, sep = "-")
+head(temperature)
 
-weather$Date <- ymd(weather$Date)
-
-weather <- filter(weather, Year > 2008)
-
-weather <- select(weather, Date, Maximum.temperature..Degree.C., Minimum.temperature..Degree.C.)
-
-names(weather) <- c("date", "maxTemp", "minTemp")
-
-head(weather)
-
-write.csv( weather, "temperatures.csv", row.names = F)
+# write.csv( temperature, "temperatures.csv", row.names = F)
 
 
-# Rainfaill ---------------------------------------------------------------
+# Rainfall ----------------------------------------------------------------
 
 rainfall <- read.csv("Data/Weather/melRainfall.csv")
 
 head(rainfall)
 
-rainfall$Date <- paste(rainfall$Year, rainfall$Month, rainfall$Day, sep = "-")
+rainfall$Date <- paste(rainfall$Year, 
+                       rainfall$Month, 
+                       rainfall$Day, 
+                       sep = "-")
 rainfall$Date <- ymd(rainfall$Date)
 
 rainfall <- filter(rainfall, Year > 2008) %>%
-            select(Date, Rainfall.amount..millimetres.)
+            select(Date, 
+                   Rainfall.amount..millimetres.)
+
+names(rainfall) <- c("date", "rainfall_mm")
+
 head(rainfall)
 
-write.csv(rainfall, "rainfall.csv", row.names = F)
+# write.csv(rainfall, "rainfall.csv", row.names = F)
+
+
+# Combine weather data ----------------------------------------------------
+head(rainfall)
+head(weather)
+
+weather <- left_join(rainfall, temperature, by = "date")
+
+head(weather)
+
+
+write.csv(weather, "weather.csv", row.names = F)
