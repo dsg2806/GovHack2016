@@ -29,4 +29,4 @@ for (i in 1:l)
         }
 
 Combined <- mutate(Combined, PedBusRatio=sum.Hourly_Counts./Bus, PedTramRatio=sum.Hourly_Counts./Tram)
-write.csv(Combined, file="Data/PedTramBusCombined.csv")
+write.csv(Combined, file="PedTramBusCombined.csv")
