@@ -36,6 +36,8 @@ temp2 <- read.csv(unz(temp, filename = "VSDATA_20140102.csv"))
 
 # Start Scaping code ------------------------------------------------------
 
+library(dplyr)
+
 years <- c("2014", "2015", "2016")
 months <- c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec") # For 2014 - 2015
 months <- c("Jan", "February", "Mar", "Apr", "May", "June", "July", "Aug", "Sep", "Oct", "Nov", "Dec") # for 2016 because VicRoads uses inconsistent month formats!!!
@@ -52,6 +54,9 @@ scrape <- function(fileurl, filename2) {    # function to scrape and save files
   download.file(fileurl, temp)
   
   temp <- read.csv(unz(temp, filename = filename2))
+  
+    ## Select Blackburn, Carlton, Doncaster and Melbourne City
+  temp <- filter(temp, NM_REGION %in% c("BBN", "CA1", "CA2", "DON", "MC1", "MC2", "MC3"))
   
   write.csv(temp, file = filename2, row.names = F)
 }
