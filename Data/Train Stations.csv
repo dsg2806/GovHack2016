@@ -1,0 +1,205 @@
+Station,Line Group,Network Segment,Line Segment,Zone,Distance KM from Southern Cross Station,Interchange,LGA,Suburb
+Aircraft,Northern,Newport Corridor,Laverton-Werribee,Zone 2,22.226,Connecting Bus,Hobsons Bay,Laverton
+Alamein,Burnley,Camberwell Corridor,Riversdale-Alamein,Zone 1,16.121,-,Boroondara,Ashburton
+Albion,Northern,Middle Footscray-Sydenham,Albion-St Albans,Zone 1 & 2,13.65,Connecting Bus,Brimbank,Sunshine North
+Alphington,Clifton Hill,Westgarth-Hurstbridge,Westgarth-Greensborough,Zone 1,10.458,Connecting Bus,Darebin,Alphington
+Altona,Northern,Newport Corridor,Seaholme-Westona,Zone 1 & 2,17.148,Connecting Bus,Hobsons Bay,Altona
+Anstey,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 1,8.043,Connecting Bus & Tram,Moreland,Brunswick
+Armadale,Caulfield,Hawksburn-Malvern,Hawksburn-Malvern,Zone 1,8.665,Connecting Bus & Tram,Stonnington,Armadale
+Ascot Vale,Northern,Kensington-Craigieburn,Kensington-Essendon,Zone 1,5.811,Connecting Bus,Moonee Valley,Ascot Vale
+Ashburton,Burnley,Camberwell Corridor,Riversdale-Alamein,Zone 1,15.392,Connecting Bus,Boroondara,Ashburton
+Aspendale,Caulfield,Glenhuntly-Frankston,Aspendale-Carrum,Zone 2,30.312,Connecting Bus,Kingston,Aspendale
+Auburn,Burnley,Camberwell Corridor,Auburn & Hawthorn,Zone 1,8.96,Connecting Bus,Boroondara,Hawthorn East
+Balaclava,Caulfield,Prahran-Sandringham,Prahran-Middle Brighton,Zone 1,9.082,Connecting Tram,Port Phillip,Balaclava
+Batman,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 1 & 2,11.225,Connecting Tram,Moreland,Coburg North
+Bayswater,Burnley,Camberwell Corridor,Heathmont-Belgrave,Zone 2,30.844,Connecting Bus,Knox,Bayswater
+Beaconsfield,Caulfield,Dandenong Corridor,Beaconsfield-Pakenham,Zone 2,46.989,Connecting Bus,Cardinia,Beaconsfield
+Belgrave,Burnley,Camberwell Corridor,Heathmont-Belgrave,Zone 2,42.693,Connecting Bus,Yarra Ranges,Belgrave
+Bell,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 1,11.703,Connecting Bus,Darebin,Preston
+Bentleigh,Caulfield,Glenhuntly-Frankston,Glenhuntly-Moorabbin,Zone 1 & 2,16.522,Connecting Bus,Glen Eira,Bentleigh
+Berwick,Caulfield,Dandenong Corridor,Hallam-Berwick,Zone 2,44.576,Connecting Bus,Casey,Berwick
+Blackburn,Burnley,Camberwell Corridor,Laburnum-Ringwood,Zone 2,18.674,Connecting Bus,Whitehorse,Blackburn
+Bonbeach,Caulfield,Glenhuntly-Frankston,Aspendale-Carrum,Zone 2,34.612,-,Kingston,Bonbeach
+Boronia,Burnley,Camberwell Corridor,Heathmont-Belgrave,Zone 2,33.379,Connecting Bus,Knox,Boronia
+Box Hill,Burnley,Camberwell Corridor,Box Hill,Zone 2,16.163,Connecting Bus & Tram,Whitehorse,Box Hill
+Brighton Beach,Caulfield,Prahran-Sandringham,Brighton Beach-Sandringham,Zone 1 & 2,15.969,Connecting Bus,Bayside,Brighton
+Broadmeadows,Northern,Kensington-Craigieburn,Glenbervie-Broadmeadows,Zone 2,16.848,Connecting Bus,Hume,Broadmeadows
+Brunswick,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 1,7.312,Connecting Bus & Tram,Moreland,Brunswick
+Burnley,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 1,5.332,Connecting Tram,Yarra,Burnley
+Burwood,Burnley,Camberwell Corridor,Riversdale-Alamein,Zone 1,14.17,Connecting Tram,Boroondara,Glen Iris
+Camberwell,Burnley,Camberwell Corridor,Camberwell,Zone 1,10.205,Connecting Bus & Tram,Boroondara,Camberwell
+Canterbury,Burnley,Camberwell Corridor,East Camberwell-Mont Albert,Zone 1 & 2,12.185,Connecting Bus,Boroondara,Canterbury
+Cardinia Road,Caulfield,Dandenong Corridor,Beaconsfield-Pakenham,Zone 2,53.68,,Cardinia,Pakenham
+Carnegie,Caulfield,Dandenong Corridor,Carnegie-Oakleigh,Zone 1,13.533,Connecting Bus,Glen Eira,Carnegie
+Carrum,Caulfield,Glenhuntly-Frankston,Aspendale-Carrum,Zone 2,36.096,Connecting Bus,Kingston,Carrum
+Caulfield,Caulfield,Caulfield,Caulfield,Zone 1,11.786,Connecting Bus & Tram,Glen Eira,Caulfield East
+Chatham,Burnley,Camberwell Corridor,East Camberwell-Mont Albert,Zone 1 & 2,12.947,-,Boroondara,Surrey Hills
+Chelsea,Caulfield,Glenhuntly-Frankston,Aspendale-Carrum,Zone 2,33.366,Connecting Bus,Kingston,Chelsea
+Cheltenham,Caulfield,Glenhuntly-Frankston,Highett-Mordialloc,Zone 2,22.425,Connecting Bus,Kingston,Cheltenham
+Clayton,Caulfield,Dandenong Corridor,Huntingdale-Westall,Zone 2,20.512,Connecting Bus,Monash,Clayton
+Clifton Hill,Clifton Hill,Jolimont-Clifton Hill,Jolimont-Clifton Hill,Zone 1,6.602,Connecting Bus & Tram,Yarra,Clifton Hill
+Coburg,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 1,10.116,Connecting Bus & Tram,Moreland,Coburg
+Collingwood,Clifton Hill,Jolimont-Clifton Hill,Jolimont-Clifton Hill,Zone 1,4.834,Connecting Bus,Yarra,Abbotsford
+Coolaroo,Northern,Kensington-Craigieburn,Coolaroo-Craigieburn,Zone 2,19.308,,Hume,Coolaroo
+Craigieburn,Northern,Kensington-Craigieburn,Coolaroo-Craigieburn,Zone 2,26.698,Connecting Bus,Hume,Craigieburn
+Cranbourne,Caulfield,Dandenong Corridor,Lynbrook-Cranbourne,Zone 2,45.122,Connecting Bus,Casey,Cranbourne
+Croxton,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 1,9.611,Connecting Tram,Darebin,Northcote
+Croydon,Burnley,Camberwell Corridor,Ringwood East-Lilydale,Zone 2,31.032,Connecting Bus,Maroondah,Croydon
+Dandenong,Caulfield,Dandenong Corridor,Dandenong,Zone 2,31.194,Connecting Bus,Greater Dandenong,Dandenong
+Darebin,Clifton Hill,Westgarth-Hurstbridge,Westgarth-Greensborough,Zone 1,11.215,Connecting Bus,Banyule,Ivanhoe
+Darling,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 1 & 2,12.677,Connecting Bus,Stonnington,Malvern East
+Dennis,Clifton Hill,Westgarth-Hurstbridge,Westgarth-Greensborough,Zone 1,8.398,Connecting Bus,Darebin,Northcote
+Diamond Creek,Clifton Hill,Westgarth-Hurstbridge,Diamond Creek-Hurstbridge,Zone 2,32.63,Connecting Bus,Nillumbik,Diamond Creek
+Eaglemont,Clifton Hill,Westgarth-Hurstbridge,Westgarth-Greensborough,Zone 1 & 2,13.089,-,Banyule,Eaglemont
+East Camberwell,Burnley,Camberwell Corridor,East Camberwell-Mont Albert,Zone 1,11.075,-,Boroondara,Camberwell
+East Malvern,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 1 & 2,13.745,Connecting Bus,Stonnington,Malvern East
+East Richmond,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 1,4.367,Connecting Tram,Yarra,Richmond
+Edithvale,Caulfield,Glenhuntly-Frankston,Aspendale-Carrum,Zone 2,31.665,Connecting Bus,Kingston,Edithvale
+Elsternwick,Caulfield,Prahran-Sandringham,Prahran-Middle Brighton,Zone 1,10.951,Connecting Bus & Tram,Glen Eira,Elsternwick
+Eltham,Clifton Hill,Westgarth-Hurstbridge,Montmorency-Eltham,Zone 2,27.389,Connecting Bus,Nillumbik,Eltham
+Epping,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 2,22.461,Connecting Bus,Whittlesea,Epping
+Essendon,Northern,Kensington-Craigieburn,Kensington-Essendon,Zone 1,8.007,Connecting Bus & Tram,Moonee Valley,Essendon
+Fairfield,Clifton Hill,Westgarth-Hurstbridge,Westgarth-Greensborough,Zone 1,9.154,Connecting Bus,Darebin,Fairfield
+Fawkner,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 1 & 2,13.225,Connecting Bus,Moreland,Fawkner
+Ferntree Gully,Burnley,Camberwell Corridor,Heathmont-Belgrave,Zone 2,35.892,Connecting Bus,Knox,Ferntree Gully
+Flagstaff,Inner City / City Loop,City Loop,City Loop,Zone 1,1.29,Connecting Bus & Tram,Melbourne,Melbourne City
+Flemington Bridge,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 1,4.062,Connecting Tram,Melbourne,North Melbourne
+Flinders Street,Inner City / City Loop,City Loop,City Loop,Zone 1,1.232,Connecting Bus & Tram,Melbourne,Melbourne City
+Footscray,Northern,Footscray,Footscray,Zone 1,5.623,Connecting Bus & Tram,Maribyrnong,Footscray
+Frankston,Caulfield,Glenhuntly-Frankston,Seaford-Frankston,Zone 2,43.923,Connecting Bus,Frankston,Frankston
+Gardenvale,Caulfield,Prahran-Sandringham,Prahran-Middle Brighton,Zone 1,12.347,Connecting Bus,Bayside,Brighton
+Gardiner,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 1,10.606,Connecting Tram,Boroondara,Glen Iris
+Ginifer,Northern,Middle Footscray-Sydenham,Albion-St Albans,Zone 2,16.193,Connecting Bus,Brimbank,St Albans
+Glen Iris,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 1,11.522,Connecting Bus & Tram,Boroondara,Glen Iris
+Glen Waverley,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 2,22.225,Connecting Bus,Monash,Glen Waverley
+Glenbervie,Northern,Kensington-Craigieburn,Glenbervie-Broadmeadows,Zone 1,9.13,-,Moonee Valley,Essendon
+Glenferrie,Burnley,Camberwell Corridor,Glenferrie,Zone 1,8.12,Connecting Tram,Boroondara,Hawthorn
+Glenhuntly,Caulfield,Glenhuntly-Frankston,Glenhuntly-Moorabbin,Zone 1,13.459,Connecting Tram,Glen Eira,Glen Huntly
+Glenroy,Northern,Kensington-Craigieburn,Glenbervie-Broadmeadows,Zone 1 & 2,14.4,Connecting Bus,Moreland,Glenroy
+Gowrie,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 2,14.73,Connecting Bus,Moreland,Glenroy
+Greensborough,Clifton Hill,Westgarth-Hurstbridge,Westgarth-Greensborough,Zone 2,22.934,Connecting Bus,Banyule,Greensborough
+Hallam,Caulfield,Dandenong Corridor,Hallam-Berwick,Zone 2,37.452,Connecting Bus,Casey,Hallam
+Hampton,Caulfield,Prahran-Sandringham,Brighton Beach-Sandringham,Zone 2,17.704,Connecting Bus,Bayside,Hampton
+Hartwell,Burnley,Camberwell Corridor,Riversdale-Alamein,Zone 1,13.303,Connecting Tram,Boroondara,Camberwell
+Hawksburn,Caulfield,Hawksburn-Malvern,Hawksburn-Malvern,Zone 1,6.633,-,Stonnington,South Yarra
+Hawthorn,Burnley,Camberwell Corridor,Auburn & Hawthorn,Zone 1,6.886,Connecting Tram,Boroondara,Hawthorn
+Heatherdale,Burnley,Camberwell Corridor,Laburnum-Ringwood,Zone 2,24.211,Connecting Bus,Whitehorse,Mitcham
+Heathmont,Burnley,Camberwell Corridor,Heathmont-Belgrave,Zone 2,28.123,Connecting Bus,Maroondah,Heathmont
+Heidelberg,Clifton Hill,Westgarth-Hurstbridge,Westgarth-Greensborough,Zone 1 & 2,14.042,Connecting Bus,Banyule,Heidelberg
+Heyington,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 1,7.116,-,Stonnington,Toorak
+Highett,Caulfield,Glenhuntly-Frankston,Highett-Mordialloc,Zone 2,20.063,Connecting Bus,Kingston,Highett
+Holmesglen,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 1 & 2,15.651,Connecting Bus,Stonnington,Malvern East
+Hoppers Crossing,Northern,Newport Corridor,Laverton-Werribee,Zone 2,27.665,Connecting Bus,Wyndham,Hoppers Crossing
+Hughesdale,Caulfield,Dandenong Corridor,Carnegie-Oakleigh,Zone 1 & 2,15.475,Connecting Bus,Monash,Hughesdale
+Huntingdale,Caulfield,Dandenong Corridor,Huntingdale-Westall,Zone 1 & 2,18.283,Connecting Bus,Monash,Oakleigh
+Hurstbridge,Clifton Hill,Westgarth-Hurstbridge,Diamond Creek-Hurstbridge,Zone 2,38.019,-,Nillumbik,Hurstbridge
+Ivanhoe,Clifton Hill,Westgarth-Hurstbridge,Westgarth-Greensborough,Zone 1 & 2,12.144,Connecting Bus,Banyule,Ivanhoe
+Jacana,Northern,Kensington-Craigieburn,Glenbervie-Broadmeadows,Zone 2,15.43,-,Moreland,Glenroy
+Jewell,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 1,6.502,Connecting Bus & Tram,Moreland,Brunswick
+Jolimont,Clifton Hill,Jolimont-Clifton Hill,Jolimont-Clifton Hill,Zone 1,2.905,Connecting Tram,#N/A,East Melbourne
+Jordanville,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 2,17.61,Connecting Bus,Monash,Mount Waverley
+Kananook,Caulfield,Glenhuntly-Frankston,Seaford-Frankston,Zone 2,41.44,Connecting Bus,Frankston,Seaford
+Keilor Plains,Northern,Middle Footscray-Sydenham,Keilor Plains-Sydenham,Zone 2,19.624,Connecting Bus,Brimbank,St Albans
+Kensington,Northern,Kensington-Craigieburn,Kensington-Essendon,Zone 1,3.575,Connecting Bus,Melbourne,Kensington
+Keon Park,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 2,17.536,Connecting Bus,Whittlesea,Thomastown
+Kooyong,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 1,8.284,Connecting Tram,Stonnington,Kooyong
+Laburnum,Burnley,Camberwell Corridor,Laburnum-Ringwood,Zone 2,17.815,Connecting Bus,Whitehorse,Blackburn
+Lalor,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 2,20.717,Connecting Bus,Whittlesea,Lalor
+Laverton,Northern,Newport Corridor,Laverton-Werribee,Zone 1 & 2,21.005,Connecting Bus,Hobsons Bay,Laverton
+Lilydale,Burnley,Camberwell Corridor,Ringwood East-Lilydale,Zone 2,39.069,Connecting Bus,Yarra Ranges,Lilydale
+Lynbrook,Caulfield,Dandenong Corridor,Lynbrook-Cranbourne,Zone 2,39.498,,Casey,Lynbrook
+Macaulay,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 1,3.254,Connecting Bus,Melbourne,North Melbourne
+Macleod,Clifton Hill,Westgarth-Hurstbridge,Westgarth-Greensborough,Zone 2,17.71,Connecting Bus,Banyule,Macleod
+Malvern,Caulfield,Hawksburn-Malvern,Hawksburn-Malvern,Zone 1,10.105,Connecting Tram,Stonnington,Malvern
+Mckinnon,Caulfield,Glenhuntly-Frankston,Glenhuntly-Moorabbin,Zone 1 & 2,15.716,Connecting Bus,Glen Eira,Mckinnon
+Melbourne Central,Inner City / City Loop,City Loop,City Loop,Zone 1,1.903,Connecting Bus & Tram,Melbourne,Melbourne City
+Mentone,Caulfield,Glenhuntly-Frankston,Highett-Mordialloc,Zone 2,24.358,Connecting Bus,Kingston,Mentone
+Merinda Park,Caulfield,Dandenong Corridor,Lynbrook-Cranbourne,Zone 2,42.35,Connecting Bus,Casey,Cranbourne North
+Merlynston,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 1 & 2,12.492,Connecting Bus,Moreland,Coburg North
+Merri,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 1,8.042,Connecting Bus & Tram,Darebin,Northcote
+Middle Brighton,Caulfield,Prahran-Sandringham,Prahran-Middle Brighton,Zone 1 & 2,14.519,Connecting Bus,Bayside,Brighton
+Middle Footscray,Northern,Middle Footscray-Sydenham,Middle Footscray-Sunshine,Zone 1,6.606,Connecting Bus,Maribyrnong,Footscray
+Mitcham,Burnley,Camberwell Corridor,Laburnum-Ringwood,Zone 2,22.408,Connecting Bus,Whitehorse,Mitcham
+Mont Albert,Burnley,Camberwell Corridor,East Camberwell-Mont Albert,Zone 1 & 2,14.626,Connecting Bus,Whitehorse,Mont Albert
+Montmorency,Clifton Hill,Westgarth-Hurstbridge,Montmorency-Eltham,Zone 2,24.746,Connecting Bus,Banyule,Montmorency
+Moonee Ponds,Northern,Kensington-Craigieburn,Kensington-Essendon,Zone 1,6.887,Connecting Bus,Moonee Valley,Moonee Ponds
+Moorabbin,Caulfield,Glenhuntly-Frankston,Glenhuntly-Moorabbin,Zone 2,18.446,Connecting Bus,Kingston,Moorabbin
+Mooroolbark,Burnley,Camberwell Corridor,Ringwood East-Lilydale,Zone 2,34.376,Connecting Bus,Yarra Ranges,Mooroolbark
+Mordialloc,Caulfield,Glenhuntly-Frankston,Highett-Mordialloc,Zone 2,27.693,Connecting Bus,Kingston,Mordialloc
+Moreland,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 1,8.784,Connecting Tram,Moreland,Coburg
+Mount Waverley,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 2,19.003,Connecting Bus,Monash,Mount Waverley
+Murrumbeena,Caulfield,Dandenong Corridor,Carnegie-Oakleigh,Zone 1,14.422,Connecting Bus,Glen Eira,Murrumbeena
+Narre Warren,Caulfield,Dandenong Corridor,Hallam-Berwick,Zone 2,40.8,Connecting Bus,Casey,Narre Warren
+Newmarket,Northern,Kensington-Craigieburn,Kensington-Essendon,Zone 1,4.301,Connecting Tram,Moonee Valley,Flemington
+Newport,Northern,Newport Corridor,South Kensington-Newport,Zone 1,10.555,Connecting Bus,Hobsons Bay,Newport
+Noble Park,Caulfield,Dandenong Corridor,Springvale-Yarraman,Zone 2,27.376,Connecting Bus,Greater Dandenong,Noble Park
+North Brighton,Caulfield,Prahran-Sandringham,Prahran-Middle Brighton,Zone 1 & 2,13.24,Connecting Bus,Bayside,Brighton
+North Melbourne,Inner City / City Loop,Inner city interchange stations,North Melbourne,Zone 1,1.715,Connecting Bus,Melbourne,West Melbourne
+North Richmond,Clifton Hill,Jolimont-Clifton Hill,Jolimont-Clifton Hill,Zone 1,4.163,Connecting Bus & Tram,Yarra,Richmond
+North Williamstown,Northern,Newport Corridor,North Williamstown-Williamstown,Zone 1,12.265,Connecting Bus,Hobsons Bay,Williamstown
+Northcote,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 1,8.967,Connecting Bus & Tram,Darebin,Northcote
+Nunawading,Burnley,Camberwell Corridor,Laburnum-Ringwood,Zone 2,21.117,Connecting Bus,Whitehorse,Nunawading
+Oak Park,Northern,Kensington-Craigieburn,Glenbervie-Broadmeadows,Zone 1 & 2,12.875,Connecting Bus,Moreland,Oak Park
+Oakleigh,Caulfield,Dandenong Corridor,Carnegie-Oakleigh,Zone 1 & 2,16.586,Connecting Bus,Monash,Oakleigh
+Officer,Caulfield,Dandenong Corridor,Beaconsfield-Pakenham,Zone 2,51.449,-,Cardinia,Officer
+Ormond,Caulfield,Glenhuntly-Frankston,Glenhuntly-Moorabbin,Zone 1 & 2,14.902,Connecting Bus,Glen Eira,Ormond
+Pakenham,Caulfield,Dandenong Corridor,Beaconsfield-Pakenham,Zone 2,58.193,Connecting Bus,Cardinia,Pakenham
+Parkdale,Caulfield,Glenhuntly-Frankston,Highett-Mordialloc,Zone 2,25.929,Connecting Bus,Kingston,Parkdale
+Parliament,Inner City / City Loop,City Loop,City Loop,Zone 1,3.032,Connecting Bus & Tram,Melbourne,Melbourne City
+Pascoe Vale,Northern,Kensington-Craigieburn,Glenbervie-Broadmeadows,Zone 1 & 2,11.271,-,Moreland,Pascoe Vale
+Patterson,Caulfield,Glenhuntly-Frankston,Glenhuntly-Moorabbin,Zone 2,17.385,-,Glen Eira,Bentleigh
+Prahran,Caulfield,Prahran-Sandringham,Prahran-Middle Brighton,Zone 1,6.724,Connecting Tram,Stonnington,Prahran
+Preston,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 1 & 2,12.468,Connecting Bus,Darebin,Preston
+Regent,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 1 & 2,13.614,Connecting Bus,Darebin,Reservoir
+Reservoir,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 1 & 2,14.943,Connecting Bus,Darebin,Reservoir
+Richmond,Inner City / City Loop,Inner city interchange stations,Richmond,Zone 1,3.797,Connecting Bus & Tram,Yarra,Richmond
+Ringwood,Burnley,Camberwell Corridor,Laburnum-Ringwood,Zone 2,25.756,Connecting Bus,Maroondah,Ringwood
+Ringwood East,Burnley,Camberwell Corridor,Ringwood East-Lilydale,Zone 2,27.763,Connecting Bus,Maroondah,Ringwood East
+Ripponlea,Caulfield,Prahran-Sandringham,Prahran-Middle Brighton,Zone 1,9.825,Connecting Bus,Port Phillip,Ripponlea
+Riversdale,Burnley,Camberwell Corridor,Riversdale-Alamein,Zone 1,11.733,Connecting Bus & Tram,Boroondara,Camberwell
+Rosanna,Clifton Hill,Westgarth-Hurstbridge,Westgarth-Greensborough,Zone 2,15.795,Connecting Bus,Banyule,Rosanna
+Roxburgh Park,Northern,Kensington-Craigieburn,Coolaroo-Craigieburn,Zone 2,22,Connecting Bus,Hume,Roxburgh Park
+Royal Park,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 1,5.461,Connecting Tram,Melbourne,Parkville
+Rushall,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 1,7.544,Connecting Bus,Yarra,Fitzroy North
+Ruthven,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 2,15.945,Connecting Bus,Darebin,Reservoir
+Sandown Park,Caulfield,Dandenong Corridor,Springvale-Yarraman,Zone 2,25.683,-,Greater Dandenong,Springvale
+Sandringham,Caulfield,Prahran-Sandringham,Brighton Beach-Sandringham,Zone 2,19.163,Connecting Bus,Bayside,Sandringham
+Seaford,Caulfield,Glenhuntly-Frankston,Seaford-Frankston,Zone 2,39.354,Connecting Bus,Frankston,Seaford
+Seaholme,Northern,Newport Corridor,Seaholme-Westona,Zone 1,16.127,Connecting Bus,Hobsons Bay,Seaholme
+Seddon,Northern,Newport Corridor,South Kensington-Newport,Zone 1,6.618,-,Maribyrnong,Seddon
+South Morang,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 2,25.989,Connecting Bus,Whittlesea,South Morang
+South Kensington,Northern,Newport Corridor,South Kensington-Newport,Zone 1,3.492,-,Melbourne,Kensington
+South Yarra,Inner City / City Loop,Inner city interchange stations,South Yarra,Zone 1,5.413,Connecting Tram,Stonnington,South Yarra
+Southern Cross (Spencer St.),Inner City / City Loop,City Loop,City Loop,Zone 1,0,Connecting Bus & Tram,Melbourne,Docklands
+Spotswood,Northern,Newport Corridor,South Kensington-Newport,Zone 1,9.22,Connecting Bus,Hobsons Bay,Spotswood
+Springvale,Caulfield,Dandenong Corridor,Springvale-Yarraman,Zone 2,24.496,Connecting Bus,Greater Dandenong,Springvale
+St Albans,Northern,Middle Footscray-Sydenham,Albion-St Albans,Zone 2,17.814,Connecting Bus,Brimbank,St Albans
+Strathmore,Northern,Kensington-Craigieburn,Glenbervie-Broadmeadows,Zone 1,9.79,Connecting Bus,Moonee Valley,Essendon
+Sunshine,Northern,Middle Footscray-Sydenham,Middle Footscray-Sunshine,Zone 1 & 2,12.254,Connecting Bus,Brimbank,Sunshine
+Surrey Hills,Burnley,Camberwell Corridor,East Camberwell-Mont Albert,Zone 1 & 2,13.835,Connecting Bus,Boroondara,Surrey Hills
+Syndal,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 2,20.885,Connecting Bus,Monash,Glen Waverley
+Tecoma,Burnley,Camberwell Corridor,Heathmont-Belgrave,Zone 2,41.341,Connecting Bus,Yarra Ranges,Tecoma
+Thomastown,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 2,19.086,Connecting Bus,Whittlesea,Thomastown
+Thornbury,Clifton Hill,Rushall-South Morang,Rushall-South Morang,Zone 1,10.617,Connecting Bus,Darebin,Thornbury
+Toorak,Caulfield,Hawksburn-Malvern,Hawksburn-Malvern,Zone 1,7.908,Connecting Bus & Tram,Stonnington,Armadale
+Tooronga,Burnley,East Richmond-Glen Waverley,East Richmond-Glen Waverley,Zone 1,9.589,Connecting Bus,Stonnington,Malvern
+Tottenham,Northern,Middle Footscray-Sydenham,Middle Footscray-Sunshine,Zone 1,9.103,-,Maribyrnong,West Footscray
+Upfield,Northern,Macaulay-Upfield,Macaulay-Upfield,Zone 2,18.856,Connecting Bus,Hume,Coolaroo
+Upper Ferntree Gully,Burnley,Camberwell Corridor,Heathmont-Belgrave,Zone 2,37.663,Connecting Bus,Knox,Upper Ferntree Gully
+Upwey,Burnley,Camberwell Corridor,Heathmont-Belgrave,Zone 2,40.179,Connecting Bus,Yarra Ranges,Upwey
+Victoria Park,Clifton Hill,Jolimont-Clifton Hill,Jolimont-Clifton Hill,Zone 1,5.423,Connecting Bus,Yarra,Abbotsford
+Watergardens (Sydenham),Northern,Middle Footscray-Sydenham,Keilor Plains-Sydenham,Zone 2,23.279,Connecting Bus,Brimbank,Sydenham
+Watsonia,Clifton Hill,Westgarth-Hurstbridge,Westgarth-Greensborough,Zone 2,19.921,Connecting Bus,Banyule,Watsonia
+Wattle Glen,Clifton Hill,Westgarth-Hurstbridge,Diamond Creek-Hurstbridge,Zone 2,35.058,-,Nillumbik,Wattle Glen
+Werribee,Northern,Newport Corridor,Laverton-Werribee,Zone 2,31.697,Connecting Bus,Wyndham,Werribee
+West Footscray,Northern,Middle Footscray-Sydenham,Middle Footscray-Sunshine,Zone 1,7.158,Connecting Bus,Maribyrnong,West Footscray
+West Richmond,Clifton Hill,Jolimont-Clifton Hill,Jolimont-Clifton Hill,Zone 1,3.659,Connecting Bus,Yarra,Richmond
+Westall,Caulfield,Dandenong Corridor,Huntingdale-Westall,Zone 2,22.638,Connecting Bus,Kingston,Clayton South
+Westgarth,Clifton Hill,Westgarth-Hurstbridge,Westgarth-Greensborough,Zone 1,7.551,Connecting Bus & Tram,Darebin,Northcote
+Westona,Northern,Newport Corridor,Seaholme-Westona,Zone 1 & 2,18.533,Connecting Bus,Hobsons Bay,Altona
+Williamstown,Northern,Newport Corridor,North Williamstown-Williamstown,Zone 1,14.204,Connecting Bus,Hobsons Bay,Williamstown
+Williamstown Beach,Northern,Newport Corridor,North Williamstown-Williamstown,Zone 1,13.181,-,Hobsons Bay,Williamstown
+Willison,Burnley,Camberwell Corridor,Riversdale-Alamein,Zone 1,12.151,-,Boroondara,Camberwell
+Windsor,Caulfield,Prahran-Sandringham,Prahran-Middle Brighton,Zone 1,7.485,Connecting Tram,Stonnington,Windsor
+Yarraman,Caulfield,Dandenong Corridor,Springvale-Yarraman,Zone 2,29.039,Connecting Bus,Greater Dandenong,Noble Park
+Yarraville,Northern,Newport Corridor,South Kensington-Newport,Zone 1,7.542,Connecting Bus,Maribyrnong,Yarraville
